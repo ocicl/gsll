@@ -1,0 +1,9 @@
+* gsll
+
+GNU Scientific Library for Lisp
+
+|---------+---------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/antik/gsll.git |
+| commit  | 1a8ada22f9cf5ed7372d352b2317f4ccdb6ab308          |
+| systems | gsll                                              |
+|---------+---------------------------------------------------|
